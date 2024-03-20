@@ -1,0 +1,30 @@
+{
+  "name": "autad",
+  "description": "Cross platform directory tree watcher, focussed on reliability, speed, and simplicity.",
+  "version": "1.0.0",
+  "main": "lib/index",
+  "author": "MavisHagenes",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "keywords": [
+    "incidunt",
+    "tree",
+    "repellendus",
+    "tempora",
+    "magni",
+    "amet",
+    "ut",
+    "simple",
+    "culpa"
+  ],
+  "homepage": "https://github.com/JanaBeier/autad.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JanaBeier/autad.git"
+  },
+  "devDependencies": {
+    "@types/node": ">=14"
+  },
+  "engines": {
+    "node": ">=0.7.1"
+  }
+}
